@@ -5,7 +5,7 @@
 # meting-api
 
 ## Explanation
-<strong>本库fork于[injahow](https://github.com/injahow)大神的 [meting-api](https://github.com/injahow/meting-api) Public，，此处只进行存储供本人使用，感兴趣者请前往原版Public。</strong>
+<strong>本库fork于[injahow](https://github.com/injahow)大神的 [meting-api](https://github.com/injahow/meting-api) Public，，此处只进行存储供本人使用，感兴趣者请前往原作者的Public。</strong>
 
 ## Descriptions
 
